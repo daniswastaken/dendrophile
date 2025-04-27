@@ -138,8 +138,8 @@ body {
   }
 
   .artwork {
-    width: 50%;
-    max-width: 300px;
+    width: 100%;
+    max-width: 1000px;
     margin: 20px auto;
     padding: 20px;
     background-color: white;
